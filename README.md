@@ -8,9 +8,9 @@ Kotlin+Selenide test using Gradle Build Tool.
     Select Run 'PrestashopTest' from the context menu.
 
 --> Running Tests from the Command Line:
-  Navigate to your project directory: Open a terminal and navigate to the root directory of your project.
-  Run the tests:
-      --> If your project uses Gradle, you can run the tests with the following command:
+  1. Open a terminal and navigate to the root directory of your project.
+  2. Run the tests with the following commands:
+      --> If your project uses Gradle:
         ./gradlew test
       --> On macOS or Linux, use:
         ./gradlew test
