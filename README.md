@@ -1,4 +1,4 @@
-Kotlin+Selenide test using Gradle Build Tool for 
+Kotlin+Selenide test using Gradle Build Tool.
 
 --> Running Tests from an IDE (IntelliJ IDEA):
   1. Open your project in IntelliJ IDEA.
